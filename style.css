@@ -1,0 +1,49 @@
+body {
+  font-family: 'Roboto Mono',monospace;
+  min-height: 200px;
+  background-image: url('https://external-preview.redd.it/DHKi0DuVI1uiCra9hcU3qXJmRxGetm354pxDAFl1av8.gif?width=640&crop=smart&format=png8&s=5b58c505072f22366e23ddf7d2f68d4de888fd4d');
+  background-color: #5f0be6;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+.container {
+  text-align: center;
+  padding: 20px;
+  height: 100vh;
+}
+
+.page-title {
+  color:#ffffff;
+  margin: 0 0 5px;
+}
+
+.page-subtitle {
+  color:#ffffff;
+  margin-top: 5px;
+}
+
+.page-logo {
+  width: 200px;
+}
+
+.alura-logo {
+  width: 40px;
+  position: absolute;
+  top: 10px;
+  right: 10px;
+}
+
+.divNotas {
+  color: white;
+  text-align: center;
+}
+
+input {
+  border: 2px solid black;
+  border-radius: 20px;
+  padding: 6px;
+  justify-content: center;
+  
+}
